@@ -1,0 +1,7 @@
+- uv init
+- create structur layer folder
+- jalankan uv add python-dotenv (agar program bisa akses env)
+- buat database dan table di supabase
+- jalankan uv add supabase (agar program bisa akses supabase) 
+- jalankan uv add google-genai (agar bisa akes model gemini)
+- jalankan uv add pydantic 
