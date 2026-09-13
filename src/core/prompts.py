@@ -19,3 +19,6 @@ def load_instruction(name: str):
         )
 
     return path.read_text(encoding="utf-8")
+
+
+load_instruction("agent-skill-type-classifier")

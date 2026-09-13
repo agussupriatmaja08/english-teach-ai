@@ -5,3 +5,4 @@
 - jalankan uv add supabase (agar program bisa akses supabase) 
 - jalankan uv add google-genai (agar bisa akes model gemini)
 - jalankan uv add pydantic 
+- jalankan uv add telegramify_markdown
